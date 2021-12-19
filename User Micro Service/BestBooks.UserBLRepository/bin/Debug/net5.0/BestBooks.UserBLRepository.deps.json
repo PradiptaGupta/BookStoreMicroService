@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BestBooks.UserBLRepository/1.0.0": {
+        "runtime": {
+          "BestBooks.UserBLRepository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BestBooks.UserBLRepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

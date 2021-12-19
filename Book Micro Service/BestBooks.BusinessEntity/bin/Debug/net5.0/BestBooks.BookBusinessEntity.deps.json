@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BestBooks.BookBusinessEntity/1.0.0": {
+        "runtime": {
+          "BestBooks.BookBusinessEntity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BestBooks.BookBusinessEntity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

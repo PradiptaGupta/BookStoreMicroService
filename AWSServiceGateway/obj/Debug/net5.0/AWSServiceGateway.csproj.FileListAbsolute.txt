@@ -1,0 +1,15 @@
+C:\Pradipta\.Net Core\BestBooksMicroService\AWSServiceGateway\bin\Debug\net5.0\AWSServiceGateway.deps.json
+C:\Pradipta\.Net Core\BestBooksMicroService\AWSServiceGateway\bin\Debug\net5.0\AWSServiceGateway.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\AWSServiceGateway\bin\Debug\net5.0\ref\AWSServiceGateway.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\AWSServiceGateway\bin\Debug\net5.0\AWSServiceGateway.pdb
+C:\Pradipta\.Net Core\BestBooksMicroService\AWSServiceGateway\obj\Debug\net5.0\AWSServiceGateway.csproj.AssemblyReference.cache
+C:\Pradipta\.Net Core\BestBooksMicroService\AWSServiceGateway\obj\Debug\net5.0\AWSServiceGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pradipta\.Net Core\BestBooksMicroService\AWSServiceGateway\obj\Debug\net5.0\AWSServiceGateway.AssemblyInfoInputs.cache
+C:\Pradipta\.Net Core\BestBooksMicroService\AWSServiceGateway\obj\Debug\net5.0\AWSServiceGateway.AssemblyInfo.cs
+C:\Pradipta\.Net Core\BestBooksMicroService\AWSServiceGateway\obj\Debug\net5.0\AWSServiceGateway.csproj.CoreCompileInputs.cache
+C:\Pradipta\.Net Core\BestBooksMicroService\AWSServiceGateway\obj\Debug\net5.0\AWSServiceGateway.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\AWSServiceGateway\obj\Debug\net5.0\ref\AWSServiceGateway.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\AWSServiceGateway\obj\Debug\net5.0\AWSServiceGateway.pdb
+C:\Pradipta\.Net Core\BestBooksMicroService\AWSServiceGateway\bin\Debug\net5.0\HelperUtility.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\AWSServiceGateway\bin\Debug\net5.0\HelperUtility.pdb
+C:\Pradipta\.Net Core\BestBooksMicroService\AWSServiceGateway\obj\Debug\net5.0\AWSServiceGateway.csproj.CopyComplete

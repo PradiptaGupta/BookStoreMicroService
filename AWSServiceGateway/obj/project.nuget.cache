@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "n1qEI7yYIRNKNrdBhQhlxjaskdXG0Md8ffQpqw7UhtFHBGyilg61pSsFYsQAoGAe0kA7ewkDnB17E7c8EbpIPA==",
+  "success": true,
+  "projectFilePath": "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\AWSServiceGateway\\AWSServiceGateway.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joyee\\.nuget\\packages\\awssdk.core\\3.7.1\\awssdk.core.3.7.1.nupkg.sha512",
+    "C:\\Users\\joyee\\.nuget\\packages\\awssdk.extensions.netcore.setup\\3.7.1\\awssdk.extensions.netcore.setup.3.7.1.nupkg.sha512",
+    "C:\\Users\\joyee\\.nuget\\packages\\awssdk.s3\\3.7.1.16\\awssdk.s3.3.7.1.16.nupkg.sha512",
+    "C:\\Users\\joyee\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.0.0\\microsoft.extensions.configuration.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\joyee\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\joyee\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\joyee\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "C:\\Users\\joyee\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\joyee\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\joyee\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

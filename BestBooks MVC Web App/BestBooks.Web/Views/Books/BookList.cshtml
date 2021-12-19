@@ -1,0 +1,89 @@
+﻿@model  BestBooks.ViewModel.BookShop
+@{ 
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<table width="100%">
+    <tr>
+        <td>
+            <table width="100%">
+                <tr>
+                    <td width="10%">Category:</td>
+                    <td width="15%">
+                        <select width="100%">
+                            <option value="0"></option>
+                            @foreach(var Category in Model.BookCategories)
+                            { 
+                                <option value="@Category">@Html.DisplayFor(X => Category)</option>
+                            }
+                        </select>
+                    </td>
+                    <td width="5px">&nbsp;</td>
+                    <td width="10%">Publisher:</td>
+                    <td width="15%">
+                        <select width="100%">
+                            <option value="0"></option>
+                            @foreach (var Publisher in Model.BookPublishers)
+                            {
+                                <option value="@Publisher">@Html.DisplayFor(X => Publisher)</option>
+                            }
+                        </select>
+                    </td>
+                    <td width="49%">&nbsp;</td>
+                </tr>
+                <tr height="25px"><td colspan="6" align="right"><input type="button" value="Add New Book"/></td></tr>
+                <tr>
+                    <td colspan="6">
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th width="180px">
+                                        
+                                    </th>
+                                    <th>
+                                        
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model.Books)
+                                {
+                                <tr>
+                                    <td>
+                                        @{
+                                            var base64 = Convert.ToBase64String(item.CoverImage);
+                                            var imgSrc = String.Format("data:image/gif;base64,{0}", base64);
+                                        }
+                                            <img src=@imgSrc height="200px" width="170px" />
+                                        </td>
+                                    <td>
+                                        <table cellpadding="0" cellspacing="0">
+                                            <tr style="height:10px">
+                                                <td>@Html.DisplayFor(modelItem => item.Name)</td>
+                                            </tr>
+                                            <tr style="height:10px">
+                                                <td>@Html.DisplayFor(modelItem => item.Author)</td>
+                                            </tr>
+                                            <tr style="height:10px">
+                                                <td>@Html.DisplayFor(modelItem => item.Publisher)</td>
+                                            </tr>
+                                            <tr style="height:10px">
+                                                <td>@Html.DisplayFor(modelItem => item.DatePublished)</td>
+                                            </tr>
+                                            <tr style="height:10px">
+                                                <td>@Html.DisplayFor(modelItem => item.ISBN)</td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+

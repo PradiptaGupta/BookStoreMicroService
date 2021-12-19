@@ -1,0 +1,15 @@
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks MVC Web App\BestBooks.ServiceGateway\bin\Debug\net5.0\BestBooks.ServiceGateway.deps.json
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks MVC Web App\BestBooks.ServiceGateway\bin\Debug\net5.0\BestBooks.ServiceGateway.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks MVC Web App\BestBooks.ServiceGateway\bin\Debug\net5.0\ref\BestBooks.ServiceGateway.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks MVC Web App\BestBooks.ServiceGateway\bin\Debug\net5.0\BestBooks.ServiceGateway.pdb
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks MVC Web App\BestBooks.ServiceGateway\obj\Debug\net5.0\BestBooks.ServiceGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks MVC Web App\BestBooks.ServiceGateway\obj\Debug\net5.0\BestBooks.ServiceGateway.AssemblyInfoInputs.cache
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks MVC Web App\BestBooks.ServiceGateway\obj\Debug\net5.0\BestBooks.ServiceGateway.AssemblyInfo.cs
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks MVC Web App\BestBooks.ServiceGateway\obj\Debug\net5.0\BestBooks.ServiceGateway.csproj.CoreCompileInputs.cache
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks MVC Web App\BestBooks.ServiceGateway\obj\Debug\net5.0\BestBooks.ServiceGateway.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks MVC Web App\BestBooks.ServiceGateway\obj\Debug\net5.0\ref\BestBooks.ServiceGateway.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks MVC Web App\BestBooks.ServiceGateway\obj\Debug\net5.0\BestBooks.ServiceGateway.pdb
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks MVC Web App\BestBooks.ServiceGateway\bin\Debug\net5.0\BestBooks.ViewModel.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks MVC Web App\BestBooks.ServiceGateway\bin\Debug\net5.0\BestBooks.ViewModel.pdb
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks MVC Web App\BestBooks.ServiceGateway\obj\Debug\net5.0\BestBooks.ServiceGateway.csproj.AssemblyReference.cache
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks MVC Web App\BestBooks.ServiceGateway\obj\Debug\net5.0\BestBooks.ServiceGateway.csproj.CopyComplete

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YyzfEHAk2huu4TiLCR3rXIyULHUDv9exZ1CPp28RyfDWuNbOMTEeqYcJ7BKCuSlA8iyKXcwqiAdA8S5Vodxi5A==",
+  "success": true,
+  "projectFilePath": "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\BestBooks MVC Web App\\BestBooks.ViewModel\\BestBooks.ViewModel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joyee\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.8\\microsoft.aspnetcore.http.features.5.0.8.nupkg.sha512",
+    "C:\\Users\\joyee\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\joyee\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,89 @@
+C:\Pradipta\.Net Core\BestBooks\BestBooks.BLRepository\bin\Debug\net5.0\BestBooks.BLRepository.deps.json
+C:\Pradipta\.Net Core\BestBooks\BestBooks.BLRepository\bin\Debug\net5.0\BestBooks.BLRepository.dll
+C:\Pradipta\.Net Core\BestBooks\BestBooks.BLRepository\bin\Debug\net5.0\ref\BestBooks.BLRepository.dll
+C:\Pradipta\.Net Core\BestBooks\BestBooks.BLRepository\bin\Debug\net5.0\BestBooks.BLRepository.pdb
+C:\Pradipta\.Net Core\BestBooks\BestBooks.BLRepository\bin\Debug\net5.0\BestBooks.BusinessEntity.dll
+C:\Pradipta\.Net Core\BestBooks\BestBooks.BLRepository\bin\Debug\net5.0\BestBooks.DataAccess.dll
+C:\Pradipta\.Net Core\BestBooks\BestBooks.BLRepository\bin\Debug\net5.0\BestBooks.BusinessEntity.pdb
+C:\Pradipta\.Net Core\BestBooks\BestBooks.BLRepository\bin\Debug\net5.0\BestBooks.DataAccess.pdb
+C:\Pradipta\.Net Core\BestBooks\BestBooks.BLRepository\obj\Debug\net5.0\BestBooks.BLRepository.csproj.AssemblyReference.cache
+C:\Pradipta\.Net Core\BestBooks\BestBooks.BLRepository\obj\Debug\net5.0\BestBooks.BLRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pradipta\.Net Core\BestBooks\BestBooks.BLRepository\obj\Debug\net5.0\BestBooks.BLRepository.AssemblyInfoInputs.cache
+C:\Pradipta\.Net Core\BestBooks\BestBooks.BLRepository\obj\Debug\net5.0\BestBooks.BLRepository.AssemblyInfo.cs
+C:\Pradipta\.Net Core\BestBooks\BestBooks.BLRepository\obj\Debug\net5.0\BestBooks.BLRepository.csproj.CoreCompileInputs.cache
+C:\Pradipta\.Net Core\BestBooks\BestBooks.BLRepository\obj\Debug\net5.0\BestBooks.BLRepository.csproj.CopyComplete
+C:\Pradipta\.Net Core\BestBooks\BestBooks.BLRepository\obj\Debug\net5.0\BestBooks.BLRepository.dll
+C:\Pradipta\.Net Core\BestBooks\BestBooks.BLRepository\obj\Debug\net5.0\ref\BestBooks.BLRepository.dll
+C:\Pradipta\.Net Core\BestBooks\BestBooks.BLRepository\obj\Debug\net5.0\BestBooks.BLRepository.pdb
+C:\Pradipta\.Net Core\BestBooksWithRESTService\BestBooks.BLRepository\bin\Debug\net5.0\BestBooks.BLRepository.deps.json
+C:\Pradipta\.Net Core\BestBooksWithRESTService\BestBooks.BLRepository\bin\Debug\net5.0\BestBooks.BLRepository.dll
+C:\Pradipta\.Net Core\BestBooksWithRESTService\BestBooks.BLRepository\bin\Debug\net5.0\ref\BestBooks.BLRepository.dll
+C:\Pradipta\.Net Core\BestBooksWithRESTService\BestBooks.BLRepository\bin\Debug\net5.0\BestBooks.BLRepository.pdb
+C:\Pradipta\.Net Core\BestBooksWithRESTService\BestBooks.BLRepository\bin\Debug\net5.0\BestBooks.BusinessEntity.dll
+C:\Pradipta\.Net Core\BestBooksWithRESTService\BestBooks.BLRepository\bin\Debug\net5.0\BestBooks.DataAccess.dll
+C:\Pradipta\.Net Core\BestBooksWithRESTService\BestBooks.BLRepository\bin\Debug\net5.0\BestBooks.BusinessEntity.pdb
+C:\Pradipta\.Net Core\BestBooksWithRESTService\BestBooks.BLRepository\bin\Debug\net5.0\BestBooks.DataAccess.pdb
+C:\Pradipta\.Net Core\BestBooksWithRESTService\BestBooks.BLRepository\obj\Debug\net5.0\BestBooks.BLRepository.csproj.AssemblyReference.cache
+C:\Pradipta\.Net Core\BestBooksWithRESTService\BestBooks.BLRepository\obj\Debug\net5.0\BestBooks.BLRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pradipta\.Net Core\BestBooksWithRESTService\BestBooks.BLRepository\obj\Debug\net5.0\BestBooks.BLRepository.AssemblyInfoInputs.cache
+C:\Pradipta\.Net Core\BestBooksWithRESTService\BestBooks.BLRepository\obj\Debug\net5.0\BestBooks.BLRepository.AssemblyInfo.cs
+C:\Pradipta\.Net Core\BestBooksWithRESTService\BestBooks.BLRepository\obj\Debug\net5.0\BestBooks.BLRepository.csproj.CoreCompileInputs.cache
+C:\Pradipta\.Net Core\BestBooksWithRESTService\BestBooks.BLRepository\obj\Debug\net5.0\BestBooks.BLRepository.csproj.CopyComplete
+C:\Pradipta\.Net Core\BestBooksWithRESTService\BestBooks.BLRepository\obj\Debug\net5.0\BestBooks.BLRepository.dll
+C:\Pradipta\.Net Core\BestBooksWithRESTService\BestBooks.BLRepository\obj\Debug\net5.0\ref\BestBooks.BLRepository.dll
+C:\Pradipta\.Net Core\BestBooksWithRESTService\BestBooks.BLRepository\obj\Debug\net5.0\BestBooks.BLRepository.pdb
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks.BLRepository\bin\Debug\net5.0\BestBooks.BLRepository.deps.json
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks.BLRepository\bin\Debug\net5.0\BestBooks.BLRepository.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks.BLRepository\bin\Debug\net5.0\ref\BestBooks.BLRepository.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks.BLRepository\bin\Debug\net5.0\BestBooks.BLRepository.pdb
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks.BLRepository\bin\Debug\net5.0\BestBooks.BusinessEntity.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks.BLRepository\bin\Debug\net5.0\BestBooks.DataAccess.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks.BLRepository\bin\Debug\net5.0\BestBooks.BusinessEntity.pdb
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks.BLRepository\bin\Debug\net5.0\BestBooks.DataAccess.pdb
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks.BLRepository\obj\Debug\net5.0\BestBooks.BLRepository.csproj.AssemblyReference.cache
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks.BLRepository\obj\Debug\net5.0\BestBooks.BLRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks.BLRepository\obj\Debug\net5.0\BestBooks.BLRepository.AssemblyInfoInputs.cache
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks.BLRepository\obj\Debug\net5.0\BestBooks.BLRepository.AssemblyInfo.cs
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks.BLRepository\obj\Debug\net5.0\BestBooks.BLRepository.csproj.CoreCompileInputs.cache
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks.BLRepository\obj\Debug\net5.0\BestBooks.BLRepository.csproj.CopyComplete
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks.BLRepository\obj\Debug\net5.0\BestBooks.BLRepository.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks.BLRepository\obj\Debug\net5.0\ref\BestBooks.BLRepository.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks.BLRepository\obj\Debug\net5.0\BestBooks.BLRepository.pdb
+C:\Pradipta\.Net Core\BestBooksMicroService\Books Micro Service\BestBooks.BLRepository\bin\Debug\net5.0\BestBooks.BLRepository.deps.json
+C:\Pradipta\.Net Core\BestBooksMicroService\Books Micro Service\BestBooks.BLRepository\bin\Debug\net5.0\BestBooks.BLRepository.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\Books Micro Service\BestBooks.BLRepository\bin\Debug\net5.0\ref\BestBooks.BLRepository.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\Books Micro Service\BestBooks.BLRepository\bin\Debug\net5.0\BestBooks.BLRepository.pdb
+C:\Pradipta\.Net Core\BestBooksMicroService\Books Micro Service\BestBooks.BLRepository\bin\Debug\net5.0\BestBooks.BusinessEntity.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\Books Micro Service\BestBooks.BLRepository\bin\Debug\net5.0\BestBooks.DataAccess.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\Books Micro Service\BestBooks.BLRepository\bin\Debug\net5.0\BestBooks.BusinessEntity.pdb
+C:\Pradipta\.Net Core\BestBooksMicroService\Books Micro Service\BestBooks.BLRepository\bin\Debug\net5.0\BestBooks.DataAccess.pdb
+C:\Pradipta\.Net Core\BestBooksMicroService\Books Micro Service\BestBooks.BLRepository\obj\Debug\net5.0\BestBooks.BLRepository.csproj.AssemblyReference.cache
+C:\Pradipta\.Net Core\BestBooksMicroService\Books Micro Service\BestBooks.BLRepository\obj\Debug\net5.0\BestBooks.BLRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pradipta\.Net Core\BestBooksMicroService\Books Micro Service\BestBooks.BLRepository\obj\Debug\net5.0\BestBooks.BLRepository.AssemblyInfoInputs.cache
+C:\Pradipta\.Net Core\BestBooksMicroService\Books Micro Service\BestBooks.BLRepository\obj\Debug\net5.0\BestBooks.BLRepository.AssemblyInfo.cs
+C:\Pradipta\.Net Core\BestBooksMicroService\Books Micro Service\BestBooks.BLRepository\obj\Debug\net5.0\BestBooks.BLRepository.csproj.CoreCompileInputs.cache
+C:\Pradipta\.Net Core\BestBooksMicroService\Books Micro Service\BestBooks.BLRepository\obj\Debug\net5.0\BestBooks.BLRepository.csproj.CopyComplete
+C:\Pradipta\.Net Core\BestBooksMicroService\Books Micro Service\BestBooks.BLRepository\obj\Debug\net5.0\BestBooks.BLRepository.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\Books Micro Service\BestBooks.BLRepository\obj\Debug\net5.0\ref\BestBooks.BLRepository.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\Books Micro Service\BestBooks.BLRepository\obj\Debug\net5.0\BestBooks.BLRepository.pdb
+C:\Pradipta\.Net Core\BestBooksMicroService\Book Micro Service\BestBooks.BLRepository\obj\Debug\net5.0\BestBooks.BLRepository.csproj.AssemblyReference.cache
+C:\Pradipta\.Net Core\BestBooksMicroService\Book Micro Service\BestBooks.BLRepository\obj\Debug\net5.0\BestBooks.BLRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pradipta\.Net Core\BestBooksMicroService\Book Micro Service\BestBooks.BLRepository\obj\Debug\net5.0\BestBooks.BLRepository.AssemblyInfoInputs.cache
+C:\Pradipta\.Net Core\BestBooksMicroService\Book Micro Service\BestBooks.BLRepository\obj\Debug\net5.0\BestBooks.BLRepository.AssemblyInfo.cs
+C:\Pradipta\.Net Core\BestBooksMicroService\Book Micro Service\BestBooks.BLRepository\obj\Debug\net5.0\BestBooks.BLRepository.csproj.CoreCompileInputs.cache
+C:\Pradipta\.Net Core\BestBooksMicroService\Book Micro Service\BestBooks.BLRepository\bin\Debug\net5.0\BestBooks.BLRepository.deps.json
+C:\Pradipta\.Net Core\BestBooksMicroService\Book Micro Service\BestBooks.BLRepository\bin\Debug\net5.0\BestBooks.BLRepository.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\Book Micro Service\BestBooks.BLRepository\bin\Debug\net5.0\ref\BestBooks.BLRepository.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\Book Micro Service\BestBooks.BLRepository\bin\Debug\net5.0\BestBooks.BLRepository.pdb
+C:\Pradipta\.Net Core\BestBooksMicroService\Book Micro Service\BestBooks.BLRepository\bin\Debug\net5.0\AWSServiceGateway.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\Book Micro Service\BestBooks.BLRepository\bin\Debug\net5.0\BestBooks.BusinessEntity.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\Book Micro Service\BestBooks.BLRepository\bin\Debug\net5.0\BestBooks.DataAccess.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\Book Micro Service\BestBooks.BLRepository\bin\Debug\net5.0\HelperUtility.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\Book Micro Service\BestBooks.BLRepository\bin\Debug\net5.0\AWSServiceGateway.pdb
+C:\Pradipta\.Net Core\BestBooksMicroService\Book Micro Service\BestBooks.BLRepository\bin\Debug\net5.0\HelperUtility.pdb
+C:\Pradipta\.Net Core\BestBooksMicroService\Book Micro Service\BestBooks.BLRepository\bin\Debug\net5.0\BestBooks.BusinessEntity.pdb
+C:\Pradipta\.Net Core\BestBooksMicroService\Book Micro Service\BestBooks.BLRepository\bin\Debug\net5.0\BestBooks.DataAccess.pdb
+C:\Pradipta\.Net Core\BestBooksMicroService\Book Micro Service\BestBooks.BLRepository\obj\Debug\net5.0\BestBooks.BLRepository.csproj.CopyComplete
+C:\Pradipta\.Net Core\BestBooksMicroService\Book Micro Service\BestBooks.BLRepository\obj\Debug\net5.0\BestBooks.BLRepository.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\Book Micro Service\BestBooks.BLRepository\obj\Debug\net5.0\ref\BestBooks.BLRepository.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\Book Micro Service\BestBooks.BLRepository\obj\Debug\net5.0\BestBooks.BLRepository.pdb

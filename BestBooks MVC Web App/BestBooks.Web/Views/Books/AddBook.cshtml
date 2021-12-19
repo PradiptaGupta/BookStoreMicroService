@@ -1,0 +1,57 @@
+﻿@model BestBooks.ViewModel.Book
+@{
+    ViewData["Title"] = "AddBook";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<form method="post" enctype="multipart/form-data" asp-controller="Books" asp-action="SaveBook">
+    <table width="100%">
+        <tr>
+            <td width="25%"></td>
+            <td width="50%">
+                <table width="100%" border="0">
+                    <tr height="5px"><td>&nbsp;</td></tr>
+                    <tr>
+                        <td width="25%">Name</td>
+                        <td width="75%"><input id="Name" asp-for="Name" style="width:80%" /></td>
+                    </tr>
+                    <tr height="5px"><td>&nbsp;</td></tr>
+                    <tr>
+                        <td width="25%">Author</td>
+                        <td width="75%"><input id="Author" asp-for="Author" style="width:80%" /></td>
+                    </tr>
+                    <tr height="5px"><td>&nbsp;</td></tr>
+                    <tr>
+                        <td width="25%">Category</td>
+                        <td width="75%"><input id="Category" asp-for="Category" style="width:80%" /></td>
+                    </tr>
+                    <tr height="5px"><td>&nbsp;</td></tr>
+                    <tr>
+                        <td width="25%">Publisher</td>
+                        <td width="75%"><input id="Publisher" asp-for="Publisher" style="width:80%" /></td>
+                    </tr>
+                    <tr height="5px"><td>&nbsp;</td></tr>
+                    <tr>
+                        <td width="25%">ISBN</td>
+                        <td width="75%"><input id="ISBN" asp-for="ISBN" style="width:80%" /></td>
+                    </tr>
+                    <tr height="5px"><td>&nbsp;</td></tr>
+                    <tr>
+                        <td width="25%">Date Published</td>
+                       <td width="75%"><input id="DatePublished" asp-for="DatePublished" style="width:80%" /></td>
+                    </tr>
+                    <tr height="5px"><td>&nbsp;</td></tr>
+                    <tr>
+                        <td width="25%">Cover Image</td>
+                        <td width="75%"><input asp-for="CoverImageFile" /></td>
+                    </tr>
+                    <tr height="5px"><td>&nbsp;</td></tr>
+                    <tr>
+                        <td width="25%"></td>
+                        <td width="75%"><input type="submit" value="Save" /></td>
+                    </tr>   
+                </table>
+            </td>
+            <td width="25%"></td>
+        </tr>
+    </table>
+</form>

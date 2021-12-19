@@ -1,0 +1,12 @@
+C:\Pradipta\.Net Core\BestBooksMicroService\HelperUtility\bin\Debug\net5.0\HelperUtility.deps.json
+C:\Pradipta\.Net Core\BestBooksMicroService\HelperUtility\bin\Debug\net5.0\HelperUtility.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\HelperUtility\bin\Debug\net5.0\ref\HelperUtility.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\HelperUtility\bin\Debug\net5.0\HelperUtility.pdb
+C:\Pradipta\.Net Core\BestBooksMicroService\HelperUtility\obj\Debug\net5.0\HelperUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pradipta\.Net Core\BestBooksMicroService\HelperUtility\obj\Debug\net5.0\HelperUtility.AssemblyInfoInputs.cache
+C:\Pradipta\.Net Core\BestBooksMicroService\HelperUtility\obj\Debug\net5.0\HelperUtility.AssemblyInfo.cs
+C:\Pradipta\.Net Core\BestBooksMicroService\HelperUtility\obj\Debug\net5.0\HelperUtility.csproj.CoreCompileInputs.cache
+C:\Pradipta\.Net Core\BestBooksMicroService\HelperUtility\obj\Debug\net5.0\HelperUtility.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\HelperUtility\obj\Debug\net5.0\ref\HelperUtility.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\HelperUtility\obj\Debug\net5.0\HelperUtility.pdb
+C:\Pradipta\.Net Core\BestBooksMicroService\HelperUtility\obj\Debug\net5.0\HelperUtility.csproj.AssemblyReference.cache

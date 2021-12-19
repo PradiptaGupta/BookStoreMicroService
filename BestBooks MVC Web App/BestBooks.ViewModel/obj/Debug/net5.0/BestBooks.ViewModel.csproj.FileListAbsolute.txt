@@ -1,0 +1,12 @@
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks MVC Web App\BestBooks.ViewModel\bin\Debug\net5.0\BestBooks.ViewModel.deps.json
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks MVC Web App\BestBooks.ViewModel\bin\Debug\net5.0\BestBooks.ViewModel.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks MVC Web App\BestBooks.ViewModel\bin\Debug\net5.0\ref\BestBooks.ViewModel.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks MVC Web App\BestBooks.ViewModel\bin\Debug\net5.0\BestBooks.ViewModel.pdb
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks MVC Web App\BestBooks.ViewModel\obj\Debug\net5.0\BestBooks.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks MVC Web App\BestBooks.ViewModel\obj\Debug\net5.0\BestBooks.ViewModel.AssemblyInfoInputs.cache
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks MVC Web App\BestBooks.ViewModel\obj\Debug\net5.0\BestBooks.ViewModel.AssemblyInfo.cs
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks MVC Web App\BestBooks.ViewModel\obj\Debug\net5.0\BestBooks.ViewModel.csproj.CoreCompileInputs.cache
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks MVC Web App\BestBooks.ViewModel\obj\Debug\net5.0\BestBooks.ViewModel.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks MVC Web App\BestBooks.ViewModel\obj\Debug\net5.0\ref\BestBooks.ViewModel.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks MVC Web App\BestBooks.ViewModel\obj\Debug\net5.0\BestBooks.ViewModel.pdb
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks MVC Web App\BestBooks.ViewModel\obj\Debug\net5.0\BestBooks.ViewModel.csproj.AssemblyReference.cache

@@ -1,0 +1,428 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\Book Micro Service\\BestBooks..HTTPRESTAPIs\\BestBooks.HTTPRESTApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\AWSServiceGateway\\AWSServiceGateway.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\AWSServiceGateway\\AWSServiceGateway.csproj",
+        "projectName": "AWSServiceGateway",
+        "projectPath": "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\AWSServiceGateway\\AWSServiceGateway.csproj",
+        "packagesPath": "C:\\Users\\joyee\\.nuget\\packages\\",
+        "outputPath": "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\AWSServiceGateway\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joyee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\HelperUtility\\HelperUtility.csproj": {
+                "projectPath": "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\HelperUtility\\HelperUtility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AWSSDK.Extensions.NETCore.Setup": {
+              "target": "Package",
+              "version": "[3.7.1, )"
+            },
+            "AWSSDK.S3": {
+              "target": "Package",
+              "version": "[3.7.1.16, )"
+            },
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\Book Micro Service\\BestBooks..HTTPRESTAPIs\\BestBooks.HTTPRESTApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\Book Micro Service\\BestBooks..HTTPRESTAPIs\\BestBooks.HTTPRESTApi.csproj",
+        "projectName": "BestBooks.HTTPRESTApi",
+        "projectPath": "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\Book Micro Service\\BestBooks..HTTPRESTAPIs\\BestBooks.HTTPRESTApi.csproj",
+        "packagesPath": "C:\\Users\\joyee\\.nuget\\packages\\",
+        "outputPath": "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\Book Micro Service\\BestBooks..HTTPRESTAPIs\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joyee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\Book Micro Service\\BestBooks.BLRepository\\BestBooks.BLRepository.csproj": {
+                "projectPath": "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\Book Micro Service\\BestBooks.BLRepository\\BestBooks.BLRepository.csproj"
+              },
+              "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\Book Micro Service\\BestBooks.BusinessEntity\\BestBooks.BusinessEntity.csproj": {
+                "projectPath": "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\Book Micro Service\\BestBooks.BusinessEntity\\BestBooks.BusinessEntity.csproj"
+              },
+              "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\Book Micro Service\\BestBooks.DataAccess\\BestBooks.DataAccess.csproj": {
+                "projectPath": "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\Book Micro Service\\BestBooks.DataAccess\\BestBooks.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AWSSDK.Extensions.NETCore.Setup": {
+              "target": "Package",
+              "version": "[3.7.1, )"
+            },
+            "AWSSDK.S3": {
+              "target": "Package",
+              "version": "[3.7.1.16, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\Book Micro Service\\BestBooks.BLRepository\\BestBooks.BLRepository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\Book Micro Service\\BestBooks.BLRepository\\BestBooks.BLRepository.csproj",
+        "projectName": "BestBooks.BLRepository",
+        "projectPath": "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\Book Micro Service\\BestBooks.BLRepository\\BestBooks.BLRepository.csproj",
+        "packagesPath": "C:\\Users\\joyee\\.nuget\\packages\\",
+        "outputPath": "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\Book Micro Service\\BestBooks.BLRepository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joyee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\AWSServiceGateway\\AWSServiceGateway.csproj": {
+                "projectPath": "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\AWSServiceGateway\\AWSServiceGateway.csproj"
+              },
+              "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\Book Micro Service\\BestBooks.BusinessEntity\\BestBooks.BusinessEntity.csproj": {
+                "projectPath": "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\Book Micro Service\\BestBooks.BusinessEntity\\BestBooks.BusinessEntity.csproj"
+              },
+              "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\Book Micro Service\\BestBooks.DataAccess\\BestBooks.DataAccess.csproj": {
+                "projectPath": "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\Book Micro Service\\BestBooks.DataAccess\\BestBooks.DataAccess.csproj"
+              },
+              "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\HelperUtility\\HelperUtility.csproj": {
+                "projectPath": "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\HelperUtility\\HelperUtility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\Book Micro Service\\BestBooks.BusinessEntity\\BestBooks.BusinessEntity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\Book Micro Service\\BestBooks.BusinessEntity\\BestBooks.BusinessEntity.csproj",
+        "projectName": "BestBooks.BusinessEntity",
+        "projectPath": "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\Book Micro Service\\BestBooks.BusinessEntity\\BestBooks.BusinessEntity.csproj",
+        "packagesPath": "C:\\Users\\joyee\\.nuget\\packages\\",
+        "outputPath": "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\Book Micro Service\\BestBooks.BusinessEntity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joyee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\Book Micro Service\\BestBooks.DataAccess\\BestBooks.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\Book Micro Service\\BestBooks.DataAccess\\BestBooks.DataAccess.csproj",
+        "projectName": "BestBooks.DataAccess",
+        "projectPath": "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\Book Micro Service\\BestBooks.DataAccess\\BestBooks.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\joyee\\.nuget\\packages\\",
+        "outputPath": "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\Book Micro Service\\BestBooks.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joyee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\HelperUtility\\HelperUtility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\HelperUtility\\HelperUtility.csproj",
+        "projectName": "HelperUtility",
+        "projectPath": "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\HelperUtility\\HelperUtility.csproj",
+        "packagesPath": "C:\\Users\\joyee\\.nuget\\packages\\",
+        "outputPath": "C:\\Pradipta\\.Net Core\\BestBooksMicroService\\HelperUtility\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joyee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

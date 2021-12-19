@@ -1,0 +1,90 @@
+C:\Pradipta\.Net Core\BestBooks\BestBooks.BusinessEntity\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.csproj.AssemblyReference.cache
+C:\Pradipta\.Net Core\BestBooks\BestBooks.BusinessEntity\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pradipta\.Net Core\BestBooks\BestBooks.BusinessEntity\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.AssemblyInfoInputs.cache
+C:\Pradipta\.Net Core\BestBooks\BestBooks.BusinessEntity\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.AssemblyInfo.cs
+C:\Pradipta\.Net Core\BestBooks\BestBooks.BusinessEntity\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.csproj.CoreCompileInputs.cache
+C:\Pradipta\.Net Core\BestBooks\BestBooks.BusinessEntity\BestBooks.DataAccess\bin\Debug\net5.0\BestBooks.DataAccess.deps.json
+C:\Pradipta\.Net Core\BestBooks\BestBooks.BusinessEntity\BestBooks.DataAccess\bin\Debug\net5.0\BestBooks.DataAccess.runtimeconfig.json
+C:\Pradipta\.Net Core\BestBooks\BestBooks.BusinessEntity\BestBooks.DataAccess\bin\Debug\net5.0\BestBooks.DataAccess.runtimeconfig.dev.json
+C:\Pradipta\.Net Core\BestBooks\BestBooks.BusinessEntity\BestBooks.DataAccess\bin\Debug\net5.0\BestBooks.DataAccess.dll
+C:\Pradipta\.Net Core\BestBooks\BestBooks.BusinessEntity\BestBooks.DataAccess\bin\Debug\net5.0\ref\BestBooks.DataAccess.dll
+C:\Pradipta\.Net Core\BestBooks\BestBooks.BusinessEntity\BestBooks.DataAccess\bin\Debug\net5.0\BestBooks.DataAccess.pdb
+C:\Pradipta\.Net Core\BestBooks\BestBooks.BusinessEntity\BestBooks.DataAccess\bin\Debug\net5.0\BestBooks.BusinessEntity.dll
+C:\Pradipta\.Net Core\BestBooks\BestBooks.BusinessEntity\BestBooks.DataAccess\bin\Debug\net5.0\BestBooks.BusinessEntity.pdb
+C:\Pradipta\.Net Core\BestBooks\BestBooks.BusinessEntity\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.csproj.CopyComplete
+C:\Pradipta\.Net Core\BestBooks\BestBooks.BusinessEntity\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.dll
+C:\Pradipta\.Net Core\BestBooks\BestBooks.BusinessEntity\BestBooks.DataAccess\obj\Debug\net5.0\ref\BestBooks.DataAccess.dll
+C:\Pradipta\.Net Core\BestBooks\BestBooks.BusinessEntity\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.pdb
+C:\Pradipta\.Net Core\BestBooks\BestBooks.BusinessEntity\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.genruntimeconfig.cache
+C:\Pradipta\.Net Core\BestBooks\BestBooks.DataAccess\bin\Debug\net5.0\BestBooks.DataAccess.deps.json
+C:\Pradipta\.Net Core\BestBooks\BestBooks.DataAccess\bin\Debug\net5.0\BestBooks.DataAccess.runtimeconfig.json
+C:\Pradipta\.Net Core\BestBooks\BestBooks.DataAccess\bin\Debug\net5.0\BestBooks.DataAccess.runtimeconfig.dev.json
+C:\Pradipta\.Net Core\BestBooks\BestBooks.DataAccess\bin\Debug\net5.0\BestBooks.DataAccess.dll
+C:\Pradipta\.Net Core\BestBooks\BestBooks.DataAccess\bin\Debug\net5.0\ref\BestBooks.DataAccess.dll
+C:\Pradipta\.Net Core\BestBooks\BestBooks.DataAccess\bin\Debug\net5.0\BestBooks.DataAccess.pdb
+C:\Pradipta\.Net Core\BestBooks\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pradipta\.Net Core\BestBooks\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.AssemblyInfoInputs.cache
+C:\Pradipta\.Net Core\BestBooks\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.AssemblyInfo.cs
+C:\Pradipta\.Net Core\BestBooks\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.csproj.CoreCompileInputs.cache
+C:\Pradipta\.Net Core\BestBooks\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.dll
+C:\Pradipta\.Net Core\BestBooks\BestBooks.DataAccess\obj\Debug\net5.0\ref\BestBooks.DataAccess.dll
+C:\Pradipta\.Net Core\BestBooks\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.pdb
+C:\Pradipta\.Net Core\BestBooks\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.genruntimeconfig.cache
+C:\Pradipta\.Net Core\BestBooksWithRESTService\BestBooks.DataAccess\bin\Debug\net5.0\BestBooks.DataAccess.deps.json
+C:\Pradipta\.Net Core\BestBooksWithRESTService\BestBooks.DataAccess\bin\Debug\net5.0\BestBooks.DataAccess.runtimeconfig.json
+C:\Pradipta\.Net Core\BestBooksWithRESTService\BestBooks.DataAccess\bin\Debug\net5.0\BestBooks.DataAccess.runtimeconfig.dev.json
+C:\Pradipta\.Net Core\BestBooksWithRESTService\BestBooks.DataAccess\bin\Debug\net5.0\BestBooks.DataAccess.dll
+C:\Pradipta\.Net Core\BestBooksWithRESTService\BestBooks.DataAccess\bin\Debug\net5.0\ref\BestBooks.DataAccess.dll
+C:\Pradipta\.Net Core\BestBooksWithRESTService\BestBooks.DataAccess\bin\Debug\net5.0\BestBooks.DataAccess.pdb
+C:\Pradipta\.Net Core\BestBooksWithRESTService\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pradipta\.Net Core\BestBooksWithRESTService\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.AssemblyInfoInputs.cache
+C:\Pradipta\.Net Core\BestBooksWithRESTService\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.AssemblyInfo.cs
+C:\Pradipta\.Net Core\BestBooksWithRESTService\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.csproj.CoreCompileInputs.cache
+C:\Pradipta\.Net Core\BestBooksWithRESTService\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.dll
+C:\Pradipta\.Net Core\BestBooksWithRESTService\BestBooks.DataAccess\obj\Debug\net5.0\ref\BestBooks.DataAccess.dll
+C:\Pradipta\.Net Core\BestBooksWithRESTService\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.pdb
+C:\Pradipta\.Net Core\BestBooksWithRESTService\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.genruntimeconfig.cache
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks.DataAccess\bin\Debug\net5.0\BestBooks.DataAccess.deps.json
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks.DataAccess\bin\Debug\net5.0\BestBooks.DataAccess.runtimeconfig.json
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks.DataAccess\bin\Debug\net5.0\BestBooks.DataAccess.runtimeconfig.dev.json
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks.DataAccess\bin\Debug\net5.0\BestBooks.DataAccess.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks.DataAccess\bin\Debug\net5.0\ref\BestBooks.DataAccess.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks.DataAccess\bin\Debug\net5.0\BestBooks.DataAccess.pdb
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.csproj.AssemblyReference.cache
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.AssemblyInfoInputs.cache
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.AssemblyInfo.cs
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.csproj.CoreCompileInputs.cache
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks.DataAccess\obj\Debug\net5.0\ref\BestBooks.DataAccess.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.pdb
+C:\Pradipta\.Net Core\BestBooksMicroService\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.genruntimeconfig.cache
+C:\Pradipta\.Net Core\BestBooksMicroService\Books Micro Service\BestBooks.DataAccess\bin\Debug\net5.0\BestBooks.DataAccess.deps.json
+C:\Pradipta\.Net Core\BestBooksMicroService\Books Micro Service\BestBooks.DataAccess\bin\Debug\net5.0\BestBooks.DataAccess.runtimeconfig.json
+C:\Pradipta\.Net Core\BestBooksMicroService\Books Micro Service\BestBooks.DataAccess\bin\Debug\net5.0\BestBooks.DataAccess.runtimeconfig.dev.json
+C:\Pradipta\.Net Core\BestBooksMicroService\Books Micro Service\BestBooks.DataAccess\bin\Debug\net5.0\BestBooks.DataAccess.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\Books Micro Service\BestBooks.DataAccess\bin\Debug\net5.0\ref\BestBooks.DataAccess.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\Books Micro Service\BestBooks.DataAccess\bin\Debug\net5.0\BestBooks.DataAccess.pdb
+C:\Pradipta\.Net Core\BestBooksMicroService\Books Micro Service\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.csproj.AssemblyReference.cache
+C:\Pradipta\.Net Core\BestBooksMicroService\Books Micro Service\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pradipta\.Net Core\BestBooksMicroService\Books Micro Service\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.AssemblyInfoInputs.cache
+C:\Pradipta\.Net Core\BestBooksMicroService\Books Micro Service\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.AssemblyInfo.cs
+C:\Pradipta\.Net Core\BestBooksMicroService\Books Micro Service\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.csproj.CoreCompileInputs.cache
+C:\Pradipta\.Net Core\BestBooksMicroService\Books Micro Service\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\Books Micro Service\BestBooks.DataAccess\obj\Debug\net5.0\ref\BestBooks.DataAccess.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\Books Micro Service\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.pdb
+C:\Pradipta\.Net Core\BestBooksMicroService\Books Micro Service\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.genruntimeconfig.cache
+C:\Pradipta\.Net Core\BestBooksMicroService\Book Micro Service\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pradipta\.Net Core\BestBooksMicroService\Book Micro Service\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.AssemblyInfoInputs.cache
+C:\Pradipta\.Net Core\BestBooksMicroService\Book Micro Service\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.AssemblyInfo.cs
+C:\Pradipta\.Net Core\BestBooksMicroService\Book Micro Service\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.csproj.CoreCompileInputs.cache
+C:\Pradipta\.Net Core\BestBooksMicroService\Book Micro Service\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\Book Micro Service\BestBooks.DataAccess\obj\Debug\net5.0\ref\BestBooks.DataAccess.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\Book Micro Service\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.pdb
+C:\Pradipta\.Net Core\BestBooksMicroService\Book Micro Service\BestBooks.DataAccess\bin\Debug\net5.0\BestBooks.DataAccess.deps.json
+C:\Pradipta\.Net Core\BestBooksMicroService\Book Micro Service\BestBooks.DataAccess\bin\Debug\net5.0\BestBooks.DataAccess.runtimeconfig.json
+C:\Pradipta\.Net Core\BestBooksMicroService\Book Micro Service\BestBooks.DataAccess\bin\Debug\net5.0\BestBooks.DataAccess.runtimeconfig.dev.json
+C:\Pradipta\.Net Core\BestBooksMicroService\Book Micro Service\BestBooks.DataAccess\bin\Debug\net5.0\BestBooks.DataAccess.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\Book Micro Service\BestBooks.DataAccess\bin\Debug\net5.0\ref\BestBooks.DataAccess.dll
+C:\Pradipta\.Net Core\BestBooksMicroService\Book Micro Service\BestBooks.DataAccess\bin\Debug\net5.0\BestBooks.DataAccess.pdb
+C:\Pradipta\.Net Core\BestBooksMicroService\Book Micro Service\BestBooks.DataAccess\obj\Debug\net5.0\BestBooks.DataAccess.genruntimeconfig.cache
